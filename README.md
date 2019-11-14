@@ -1,5 +1,4 @@
-# Dirmod-v1.0
-Ejercicio - Entrevista - Dirmod v1.0 - Cotizador de Monedas
+﻿Ejercicio - Entrevista - Dirmod v1.0 - Cotizador de Monedas
 
 Desarrollo de una API RESTful retorne las cotizaciones de, al menos, 3 monedas con respecto a la moneda argentina. 
 
@@ -9,3 +8,4 @@ Observaciones:
 - Descargar y ejecutar utilizando Visual Studio 2015 o superior.
 
 Lepke Perez.
+
